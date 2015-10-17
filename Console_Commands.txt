@@ -1,0 +1,87 @@
+run:
+---------------------------------------------------
+Results for UnRandmozied data with unmodified code
+--------------             ---------
+%TRAINING DATA             %ACCURACY
+--------------             ---------
+100.0                     61
+75.0                     61
+50.0                     61
+30.0                     61
+10.0                     61
+6.0                     47
+4.0                     39
+1.0                     77
+0.5                     25
+Do you want to check the Randmoziation of a file using Theta ?
+Please enter (Y/N)?
+Y
+Please Enter the Theta Value
+0.8
+Both Training Data and Test data are randomized 
+-------------------------------------------------
+Results for Randmozied data with unmodified code
+--------------             ---------
+%TRAINING DATA             %ACCURACY
+--------------             ---------
+100.0                     58
+75.0                     58
+50.0                     58
+30.0                     58
+10.0                     58
+6.0                     44
+4.0                     38
+1.0                     20
+0.5                     24
+------------------------------------
+Results for Randmozied data with modified code
+--------------             ---------
+%TRAINING DATA             %ACCURACY
+--------------             ---------
+100.0                    47
+75.0                    47
+50.0                    47
+30.0                    47
+10.0                    47
+6.0                    47
+4.0                    47
+1.0                    47
+0.5                    47
+Do you want to check the Randmoziation of a file using Theta ?
+Please enter (Y/N)?
+Y
+Please Enter the Theta Value
+0.7
+Both Training Data and Test data are randomized 
+-------------------------------------------------
+Results for Randmozied data with unmodified code
+--------------             ---------
+%TRAINING DATA             %ACCURACY
+--------------             ---------
+100.0                     52
+75.0                     52
+50.0                     52
+30.0                     52
+10.0                     52
+6.0                     40
+4.0                     52
+1.0                     60
+0.5                     60
+------------------------------------
+Results for Randmozied data with modified code
+--------------             ---------
+%TRAINING DATA             %ACCURACY
+--------------             ---------
+100.0                    51
+75.0                    51
+50.0                    51
+30.0                    51
+10.0                    51
+6.0                    51
+4.0                    51
+1.0                    51
+0.5                    51
+Do you want to check the Randmoziation of a file using Theta ?
+Please enter (Y/N)?
+n
+BUILD SUCCESSFUL (total time: 17 seconds)

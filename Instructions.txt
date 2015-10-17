@@ -1,0 +1,12 @@
+1)Please find the Source Code in the OrgDecisionTree folder.
+2)This code is written in java language and executed in the Net beans IDE.
+3)Please check the below text files present in the OrgDecisionTree folder. 
+     * Console_commands
+     * training.txt         
+     * test.txt            	
+     * test_rand.txt        --Randomized test data and gets updated based on the entered theta value
+     * training_rand.txt    --Randomized training data and gets updated based on the entered theta value
+4)Please run the program and enter 'Y' from the console if you would like to proceed,Otherwise 'N'.
+  If entered 'Y', then please enter the Theta value to see the results.(Can be continued for multiple values of Theta)
+5)Project report can be found in Assignment4-Dinesh-Kasu.pdf file.
+
